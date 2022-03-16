@@ -1,0 +1,1 @@
+hellminer.exe -c stratum+tcp://ap.luckpool.net:3956 -u RGsLPQLPzKW24Aq2T8dhak4DZ8GBn2QR1G.suki -p x --cpu 2
